@@ -10,6 +10,6 @@ You can run this program by pulling down the Docker image from Docker Hub using
 
 Once the Docker container is running locally you can use [Postman](https://www.postman.com/) or curl to access the API endpoints by visting either URL below.
 
-http://localhost:5000/api-endpoint-name
+http[]()://localhost:5000/api-endpoint-name
 
-http://127.0.0.1:5000/api-endpoint-name
+http[]()://127.0.0.1:5000/api-endpoint-name
